@@ -5,16 +5,16 @@
 
 }
  #part1{
-    background: rgb(228, 238, 228);
+    background: rgb(246, 253, 246);
  }
 
 #firstList {
     list-style: none;
     display: flex;
-    padding-left: 400px;
-    padding-top: 50px;
-    font-size: small;
-    font-weight: bolder;
+    padding-left: 300px;
+    /* padding-top: 50px; */
+    font-size: large;
+    font-weight: bold;
 }
 
 #firstList :hover {
@@ -22,27 +22,27 @@
 }
 
 .img {
-    padding-right: 80px;
+    padding-right: 70px;
 }
 
 .link {
     text-decoration: none;
     color: black;
-    padding-right: 20px;
+    padding-right: 30px;
 }
 
 .bartag {
     text-decoration: none;
-    font-size: small;
+    font-size: large;
     color: white;
     background-color: rgb(85, 188, 85);
     padding-right: 20px;
     padding-left: 20px;
-    padding-top: 15px;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border: 20px;
-    border-radius: 18px;
-    padding-bottom: 6px;
+    border-radius: 20px;
+   
 
 }
 
@@ -50,23 +50,33 @@
 
 .firsParagraph {
     font-weight: bolder;
-    font-size: xx-large;
+    font-size: 330%;
     padding-left: 380px;
 }
 
 .fp {
     font-weight: bolder;
-    font-size: xx-large;
-    padding-left: 380px;
+    font-size: 100%;
+    /* padding-left: 380px; */
     color: rgb(85, 188, 85);
 }
 
 .secondParagraph {
     font-weight: bold;
-    font-size: small;
+    font-size: 120%;
     padding-left: 380px;
 }
 
+.color1{
+    color: rgb(85, 188, 85);
+}
+.color2{
+    color: rgb(245, 148, 113);
+}
+
+.color3{
+    color: skyblue;
+}
 #secondList {
     display: flex;
     list-style: none;
@@ -77,13 +87,42 @@
 .link2 {
     text-decoration: none;
     color: white;
-    font-size: small;
+    font-weight: bold;
+    font-size: 100%;
     background-color: rgb(85, 188, 85);
-    padding-right: 8px;
-    padding-left: 8px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-radius: 18px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 25px;
     border: 20px
       
+}
+
+.thirdParagraph{
+    padding-left: 800px;
+    padding-top: 90px;
+    align-items: center;
+    font-size: 120%;
+}
+
+.lineSpan1{
+    padding-left: 100px;
+}
+.lineSpan2{
+    padding-left: 10px;
+}
+.lineSpan3{
+    padding-left: 310px;
+}
+
+.link3{
+    color: rgb(85, 188, 85);
+    padding-left: 980px;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.spanMark1{
+    font-weight: bold;
 }
