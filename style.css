@@ -6,6 +6,7 @@
 }
  #part1{
     background: rgb(246, 253, 246);
+    padding-bottom: 80px;
  }
 
 #firstList {
@@ -99,11 +100,15 @@
       
 }
 
+#part2{
+    padding-top: 140px;
+}
+
 .thirdParagraph{
-    padding-left: 800px;
-    padding-top: 90px;
+    padding-left: 800px; 
+    /* padding-top: 90px; */
     align-items: center;
-    font-size: 120%;
+    font-size: 20px;
 }
 
 .lineSpan1{
@@ -123,6 +128,63 @@
     font-weight: 500;
 }
 
-.spanMark1{
-    font-weight: bold;
+.fourthParagraph{
+    font-weight: 800;
+    font-size: 200%;
+    padding-left: 800px;
 }
+
+.lineSpan4{
+    padding-left: 20px;
+}
+
+.paragraph5{
+    font-weight: 800;
+    font-size: 200%;
+    padding-left: 400px;
+}
+
+#part3{
+    background: rgb(246, 253, 246);
+    padding-bottom: 100px;
+    padding-top: 160px;
+}
+
+.paragraph6{
+    font-size: 20px;
+    padding-left: 400px;
+    font-weight: 300;
+}
+
+#thirdList{
+    display: flex;
+    list-style: none;
+    padding-left: 400px;
+    gap: 40px;
+    
+  
+
+}
+
+.link4A{
+    
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 100%;
+    background-color: rgb(85, 188, 85);
+    padding-right: 70px;
+     padding-left: 70px; 
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 25px;
+    border: 20px
+}
+
+.link4B{
+    color: rgb(85, 188, 85);
+    font-size: larger;
+    text-decoration: none;
+    
+}
+
