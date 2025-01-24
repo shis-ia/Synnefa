@@ -4,10 +4,11 @@
     align-items: center;
 
 }
- #part1{
+
+#part1 {
     background: rgb(246, 253, 246);
     padding-bottom: 80px;
- }
+}
 
 #firstList {
     list-style: none;
@@ -22,8 +23,8 @@
     color: rgb(90, 172, 90);
 }
 
-#part1 #img {
-   padding-right: 60px;
+.img {
+    padding-right: 80px;
 }
 
 .link {
@@ -43,7 +44,7 @@
     padding-bottom: 10px;
     border: 20px;
     border-radius: 20px;
-   
+
 
 }
 
@@ -69,16 +70,18 @@
     padding-left: 380px;
 }
 
-.color1{
+.color1 {
     color: rgb(85, 188, 85);
 }
-.color2{
+
+.color2 {
     color: rgb(245, 148, 113);
 }
 
-.color3{
+.color3 {
     color: skyblue;
 }
+
 #secondList {
     display: flex;
     list-style: none;
@@ -98,169 +101,238 @@
     padding-bottom: 15px;
     border-radius: 25px;
     border: 20px
-      
 }
 
-#part2{
+#part2 {
     padding-top: 140px;
 }
 
-.thirdParagraph{
-    padding-left: 800px; 
+.thirdParagraph {
+    padding-left: 800px;
     /* padding-top: 90px; */
     align-items: center;
     font-size: 20px;
 }
 
-.lineSpan1{
+.lineSpan1 {
     padding-left: 100px;
 }
-.lineSpan2{
+
+.lineSpan2 {
     padding-left: 10px;
 }
-.lineSpan3{
+
+.lineSpan3 {
     padding-left: 310px;
 }
 
-.link3{
+.link3 {
     color: rgb(85, 188, 85);
     padding-left: 980px;
     font-size: larger;
     font-weight: 500;
 }
 
-.fourthParagraph{
+.fourthParagraph {
     font-weight: 800;
     font-size: 200%;
     padding-left: 800px;
 }
 
-.lineSpan4{
+.lineSpan4 {
     padding-left: 20px;
 }
 
-.paragraph5{
+.paragraph5 {
     font-weight: 800;
     font-size: 230%;
     padding-left: 400px;
 }
 
-#part3{
+#part3 {
     background: rgb(246, 253, 246);
     padding-bottom: 100px;
     padding-top: 160px;
 }
 
-.paragraph6{
+.paragraph6 {
     font-size: 20px;
     padding-left: 400px;
     font-weight: 300;
 }
 
-#thirdList{
+#thirdList {
     display: flex;
     list-style: none;
     padding-left: 400px;
     gap: 40px;
-    
-  
+
+
 
 }
 
-.link4A{
-    
+.link4A {
+
     text-decoration: none;
     color: white;
     font-weight: bold;
     font-size: 100%;
     background-color: rgb(85, 188, 85);
     padding-right: 70px;
-     padding-left: 70px; 
+    padding-left: 70px;
     padding-top: 15px;
     padding-bottom: 15px;
     border-radius: 25px;
     border: 20px
 }
 
-#link4B{
+#link4B {
     color: rgb(85, 188, 85);
     font-size: larger;
     text-decoration: none;
     text-decoration-line: underline;
     text-decoration: underline black;
-    
+
 }
 
-#part4{
+#part4 {
     align-items: center;
     padding-bottom: 100px;
 
 }
 
-.paragraph7{
+.paragraph7 {
     font-size: 230%;
     font-weight: 800;
     padding-left: 1050px;
     padding-top: 90px;
 }
 
-.paragraph8{
+.paragraph8 {
     padding-left: 1050px;
     padding-top: 6px;
     font-size: 18px;
     font-weight: 300;
 }
 
-.lineSpan5{
+.lineSpan5 {
     color: rgb(70, 3, 3);
     font-weight: bold;
     font-size: 25px;
 }
 
-#list4{
+#list4 {
     display: flex;
     list-style: none;
     padding-left: 1080px;
     gap: 40px;
 }
 
-.link5A{
+.link5A {
     text-decoration: none;
     color: white;
     font-weight: bold;
     font-size: 100%;
     background-color: rgb(85, 188, 85);
-    padding-right: 40px;
-    padding-left: 40px; 
+    padding-right: 30px;
+    padding-left: 30px;
     padding-top: 15px;
     padding-bottom: 12px;
     border-radius: 20px;
 }
 
-#link5B{
+#link5B {
     color: rgb(85, 188, 85);
     font-size: larger;
-    text-decoration: none; 
+    text-decoration: none;
     text-decoration-line: underline;
     text-decoration: underline black;
 }
 
-.part5{
+.part5 {
     background-color: rgb(246, 253, 246);
     padding-top: 100px;
     padding-bottom: 100px;
 }
 
-.paragraph9{
+.paragraph9 {
     padding-left: 400px;
     font-size: 230%;
     font-weight: 800;
-    
+
 }
 
 
-.paragraph10{
+.paragraph10 {
     padding-left: 400px;
     font-size: 20px;
     font-weight: 300;
+
+}
+
+#list6 {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    padding-left: 400px;
+    gap: 40px;
+    
+}
+
+.link6A {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 100%;
+    background-color: rgb(85, 188, 85);
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    border-radius: 20px;
+}
+
+#link6B {
+    color: rgb(85, 188, 85);
+    font-size: larger;
+    text-decoration: none;
+    text-decoration-line: underline;
+    text-decoration: underline black;
+}
+
+.paragraph11{
+    font-weight: 800;
+    font-size: 200%;
+    padding-left: 800px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+.subtitle1{
+    color: black;
+    font-weight: 800;
+    font-size:200%;
+    padding-left: 900px;
+    padding-top: 70px;
+    background-color: rgb(246, 253, 246);
+    padding-bottom: 50px;
+   
+}
+
+.list7{
+     display: flex;
+    text-decoration: none;
+    list-style: none;
+    padding-left: 400px;
+    padding-top: 50px;
+    padding-right: 80px;
+    gap: 50px; 
+
+}
+
+.sub1{
+    color: rgb(85, 188, 85);
+    font-size: 20px;
+    font-weight: bold;
 }
