@@ -22,8 +22,8 @@
     color: rgb(90, 172, 90);
 }
 
-.img {
-    padding-right: 70px;
+#part1 #img {
+   padding-right: 60px;
 }
 
 .link {
@@ -46,6 +46,7 @@
    
 
 }
+
 
 
 
@@ -140,7 +141,7 @@
 
 .paragraph5{
     font-weight: 800;
-    font-size: 200%;
+    font-size: 230%;
     padding-left: 400px;
 }
 
@@ -181,10 +182,85 @@
     border: 20px
 }
 
-.link4B{
+#link4B{
     color: rgb(85, 188, 85);
     font-size: larger;
     text-decoration: none;
+    text-decoration-line: underline;
+    text-decoration: underline black;
     
 }
 
+#part4{
+    align-items: center;
+    padding-bottom: 100px;
+
+}
+
+.paragraph7{
+    font-size: 230%;
+    font-weight: 800;
+    padding-left: 1050px;
+    padding-top: 90px;
+}
+
+.paragraph8{
+    padding-left: 1050px;
+    padding-top: 6px;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.lineSpan5{
+    color: rgb(70, 3, 3);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#list4{
+    display: flex;
+    list-style: none;
+    padding-left: 1080px;
+    gap: 40px;
+}
+
+.link5A{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 100%;
+    background-color: rgb(85, 188, 85);
+    padding-right: 40px;
+    padding-left: 40px; 
+    padding-top: 15px;
+    padding-bottom: 12px;
+    border-radius: 20px;
+}
+
+#link5B{
+    color: rgb(85, 188, 85);
+    font-size: larger;
+    text-decoration: none; 
+    text-decoration-line: underline;
+    text-decoration: underline black;
+}
+
+.part5{
+    background-color: rgb(246, 253, 246);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.paragraph9{
+    padding-left: 400px;
+    font-size: 230%;
+    font-weight: 800;
+    
+}
+
+
+.paragraph10{
+    padding-left: 400px;
+    font-size: 20px;
+    font-weight: 300;
+}
