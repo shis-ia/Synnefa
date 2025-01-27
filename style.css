@@ -276,7 +276,7 @@
     text-decoration: none;
     padding-left: 400px;
     gap: 40px;
-    
+
 }
 
 .link6A {
@@ -300,39 +300,67 @@
     text-decoration: underline black;
 }
 
-.paragraph11{
+.paragraph11 {
     font-weight: 800;
     font-size: 200%;
     padding-left: 800px;
     padding-top: 50px;
     padding-bottom: 50px;
-    
+
 }
 
-.subtitle1{
+.part7 {
+    background-color: rgb(253, 246, 239);
+}
+
+.subtitle1 {
     color: black;
     font-weight: 800;
-    font-size:200%;
+    font-size: 200%;
     padding-left: 900px;
     padding-top: 70px;
-    background-color: rgb(246, 253, 246);
-    padding-bottom: 50px;
-   
+
 }
 
-.list7{
-     display: flex;
+.list7 {
+    display: flex;
     text-decoration: none;
     list-style: none;
     padding-left: 400px;
-    padding-top: 50px;
     padding-right: 80px;
-    gap: 50px; 
+    gap: 30px;
+   
 
 }
 
-.sub1{
+.button1 {
+    background-color: white;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+    border-color: rgb(253, 246, 239);
+    box-shadow: 8px;
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.sub1 {
     color: rgb(85, 188, 85);
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
+}
+
+
+.part8{
+padding-top: 100px;
+
+
+}
+.color4{
+    color: black;
+}
+.color{
+    color:rgb(85, 188, 85)
 }
