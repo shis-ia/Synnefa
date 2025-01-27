@@ -306,18 +306,19 @@
     padding-left: 800px;
     padding-top: 50px;
     padding-bottom: 50px;
-
+    
 }
 
 .part7 {
     background-color: rgb(253, 246, 239);
+    padding-bottom: 80px;
 }
 
 .subtitle1 {
     color: black;
     font-weight: 800;
     font-size: 200%;
-    padding-left: 900px;
+    padding-left: 740px;
     padding-top: 70px;
 
 }
@@ -344,7 +345,9 @@
     box-shadow: 8px;
     font-size: 14px;
     font-weight: 100;
+    
 }
+
 
 .sub1 {
     color: rgb(85, 188, 85);
@@ -355,12 +358,58 @@
 
 .part8{
 padding-top: 100px;
-
-
 }
+.paragraph12{
+    padding-top: 80px;
+    padding-left: 740px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
 .color4{
     color: black;
 }
-.color{
-    color:rgb(85, 188, 85)
+.color5{
+    color:rgb(60, 187, 60)
+}
+
+
+
+.list8{
+    display: flex;
+    list-style: none;
+    gap: 4px;
+    padding-left: 100px;
+    padding-bottom: 80px;
+
+}
+
+
+
+.part9{
+    background-color: rgb(246, 253, 246);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.paragraph13{
+padding-left: 180px;
+font-size: 35px;
+font-weight: bold;
+text-align: center;
+padding-bottom: 40px;
+}
+.color6{
+    color: black;
+}
+.color7{
+    color: rgb(60, 187, 60);
+}
+
+.paragraph14{
+    padding-left: 900px;
+    font-size: 20px;
+}
+
+.imgsamp{
+    padding-right: 260px;
 }
