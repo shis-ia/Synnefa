@@ -306,7 +306,7 @@
     padding-left: 800px;
     padding-top: 50px;
     padding-bottom: 50px;
-    
+
 }
 
 .part7 {
@@ -323,6 +323,13 @@
 
 }
 
+.link9 {
+    color: rgb(60, 187, 60);
+    padding-left: 180px;
+    font-size: large;
+    text-decoration: none;
+}
+
 .list7 {
     display: flex;
     text-decoration: none;
@@ -330,8 +337,12 @@
     padding-left: 400px;
     padding-right: 80px;
     gap: 30px;
-   
 
+
+}
+
+.list7 :hover {
+    background-color: rgb(60, 187, 60);
 }
 
 .button1 {
@@ -345,7 +356,7 @@
     box-shadow: 8px;
     font-size: 14px;
     font-weight: 100;
-    
+
 }
 
 
@@ -356,26 +367,28 @@
 }
 
 
-.part8{
-padding-top: 100px;
+.part8 {
+    padding-top: 100px;
 }
-.paragraph12{
+
+.paragraph12 {
     padding-top: 80px;
     padding-left: 740px;
     font-size: 30px;
     font-weight: bold;
 }
 
-.color4{
+.color4 {
     color: black;
 }
-.color5{
-    color:rgb(60, 187, 60)
+
+.color5 {
+    color: rgb(60, 187, 60)
 }
 
 
 
-.list8{
+.list8 {
     display: flex;
     list-style: none;
     gap: 4px;
@@ -386,92 +399,170 @@ padding-top: 100px;
 
 
 
-.part9{
+.part9 {
     background-color: rgb(246, 253, 246);
     padding-top: 100px;
     padding-bottom: 100px;
 }
-.paragraph13{
-padding-left: 180px;
-font-size: 35px;
-font-weight: bold;
-text-align: center;
-padding-bottom: 40px;
+
+.paragraph13 {
+    padding-left: 180px;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 40px;
 }
-.color6{
+
+.color6 {
     color: black;
 }
-.color7{
+
+.color7 {
     color: rgb(60, 187, 60);
 }
 
-.paragraph14{
+.paragraph14 {
     padding-left: 900px;
     font-size: 20px;
+    border-style: solid;
+    padding-top: 80px;
+    padding-bottom: 100px;
+
+}
+.subparagraph{
+    border: solid;
 }
 
-.part10{
+.part10 {
     padding-top: 80px;
     padding-bottom: 100px;
 }
-.paragraph15{
+
+.paragraph15 {
     padding-left: 1000px;
     font-size: 30px;
     font-weight: bold;
 }
 
-.lineSpan6{
+.lineSpan6 {
     padding-left: 1000px;
     font-size: 28px;
-   
+
 }
-.paragraph16{
+
+.paragraph16 {
     padding-left: 1000px;
     font-size: 18px;
     padding-top: 15px;
     padding-bottom: 10px;
 }
-.paragraph17{
+
+.paragraph17 {
     padding-left: 400px;
     padding-bottom: 80px;
     font-size: 40px;
     font-weight: bold;
+
 }
 
-.link6{
+#block {
+    border-style: hidden;
+    border-radius: 15px;
+    border-width: 4px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: white;
+}
+
+#block1 {
+    border-style: hidden;
+    border-radius: 15px;
+    border-width: 4px;
+    padding-top: 10px;
+    padding-bottom: 80px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: white;
+}
+
+
+.link6 {
     color: rgb(85, 188, 85);
     padding-left: 1000px;
-    
+
 }
 
-.part11{
+.part11 {
     background-color: rgb(253, 246, 239);
     padding-top: 80px;
     padding-bottom: 50px;
 }
 
-.list9{
+.list9 {
     display: flex;
     text-decoration: none;
     list-style: none;
     gap: 30px;
     padding-left: 400px;
-  
+
 }
 
-.link7{
+.link7 {
     text-decoration: none;
     font-size: 18px;
     color: black;
-    
+
 }
 
-.span7{
+.span7 {
     color: rgb(85, 188, 85);
 }
 
-.subtitle2{
+.subtitle2 {
     font-size: 20px;
     font-weight: bold;
     padding-bottom: 10px;
+}
+
+
+.part12 {
+    padding-top: 80px;
+    padding-bottom: 100px;
+    background-color: rgb(109, 54, 54);
+    color: white;
+}
+
+.subtitle3 {
+    font-size: xx-large;
+    font-weight: bold;
+    padding-left: 1000px;
+    padding-bottom: 30px;
+}
+
+.paragraph18 {
+    padding-left: 1030px;
+}
+
+.paragraph19 {
+    padding-left: 1030px;
+}
+
+.paragraph20 {
+    padding-left: 1030px;
+}
+
+.subsub {
+    font-weight: bold;
+}
+
+.link8 {
+    color: white;
+    text-decoration-line: none;
+}
+
+#imageLocation {
+    padding-right: 300px;
+    padding-top: 80px;
 }
