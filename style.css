@@ -429,7 +429,8 @@
     padding-bottom: 100px;
 
 }
-.subparagraph{
+
+.subparagraph {
     border: solid;
 }
 
@@ -566,3 +567,29 @@
     padding-right: 300px;
     padding-top: 80px;
 }
+
+.part13 {
+    background-color: rgb(36, 109, 36);
+    color: white;
+    padding-bottom: 80px;
+}
+
+.list10 {
+    display: flex;
+    list-style: none;
+    padding-left: 400px;
+    gap: 80px
+}
+
+ .two {
+    padding-bottom: 110px;
+}
+
+.three {
+    padding-bottom: 110px;
+} 
+
+.four {
+    padding-top: 200px;
+}
+
