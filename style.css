@@ -424,15 +424,11 @@
 .paragraph14 {
     padding-left: 900px;
     font-size: 20px;
-    border-style: solid;
     padding-top: 80px;
     padding-bottom: 100px;
 
 }
 
-.subparagraph {
-    border: solid;
-}
 
 .part10 {
     padding-top: 80px;
@@ -590,6 +586,30 @@
 } 
 
 .four {
-    padding-top: 200px;
+    padding-top: 20
 }
 
+.emailsqure{
+    border-style: solid;
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 180px;
+    padding-left: 8px;
+}
+
+.subboarder{
+    border-style: solid;
+    border-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 60px;
+    padding-left: 60px;
+    color: rgb(60, 187, 60);
+    border-radius: 20px;
+    background-color: white;
+}
+
+.sub2{
+    font-weight: bold;
+}
